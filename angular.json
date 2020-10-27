@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "footballApp"
+    }
+  },
+  "defaultProject": "footballApp",
+  "cli": {
+    "analytics": false
+  }
 }
